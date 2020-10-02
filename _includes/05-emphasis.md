@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I am learning to code and progressing well**
+
+*I am also learning Welsh*
+
+_Ond mae eisiau i fi wella_
+
+__Dwi'n moyn *ymarfer* mwy__
